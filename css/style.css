@@ -1,0 +1,71 @@
+.startBtn{
+    justify-content: center;
+    display: flex;
+    margin-top: 10rem;
+}
+.startBtn2{
+    width: 15rem;
+    height: 10rem;
+}
+.spockI{
+    color: black;
+}
+.createdTxt{
+    text-align: center;
+}
+.createdCol{
+    margin-top: 2rem;
+}
+.titleTxt{
+    text-align: center;
+    margin-top: 3rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.iconCols{
+    justify-content: center;
+    display: flex;
+    margin-top: 5rem;
+}
+
+
+.t{
+    background: url('https://api.iconify.design/fa-solid/hand-rock.svg?width=200&height=200') no-repeat center center ;
+    width: 200px;
+    height: 200px;
+}
+.t2{
+    background: url('https://api.iconify.design/fa-solid/hand-paper.svg?width=200&height=200') no-repeat center center;
+    width: 200px;
+    height: 200px;
+    
+}
+.t3{
+    background: url('https://api.iconify.design/fa6-solid/hand-scissors.svg?width=200&height=200') no-repeat center center;
+    width: 200px;
+    height: 200px;
+    
+}
+.t4{
+    background: url('https://api.iconify.design/fa6-solid/hand-lizard.svg?width=200&height=200') no-repeat center center;
+    width: 200px;
+    height: 200px;
+    
+}
+.t5{
+    background: url('https://api.iconify.design/fa-solid/hand-spock.svg?width=200&height=200') no-repeat center center;
+    width: 200px;
+    height: 200px;
+    
+}
+
+.t6{
+    background: url('https://api.iconify.design/fa-solid/hand-spock.svg?width=200&height=200') no-repeat center center;
+    width: 400px;
+    height: 400px;
+}
+
+.instructPos{
+    justify-content: center;
+    display: flex;
+}
