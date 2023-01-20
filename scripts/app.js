@@ -146,9 +146,9 @@ function PlayerResult() {
   }
 }
 
-function rndCounter(){
+// function rndCounter(){
 
-}
+// }
 
 
 function clearRock() {
